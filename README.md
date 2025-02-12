@@ -1,6 +1,6 @@
 # 🌦️ Repositório não oficial da Meteorologia UFRJ.
 
-<img height=600em src="furacao.png" alt="furacao">
+<img height=600em src="https://media.discordapp.net/attachments/1015759107220852826/1339010073699029044/file-KQAbv4hjVeGvbMpT3feCj3.png?ex=67ad29cf&is=67abd84f&hm=50074bd3f67615691596c4128bc1f05d48cd763852170d0f18f09b12a770c07b&=&format=webp&quality=lossless&width=671&height=671" alt="furacao">
 
 > Este repositório não é um repositório oficial do Departamento de Meteorologia da UFRJ. Ele foi criado e é mantido por alunos, com o objetivo de compartilhar materiais, projetos e scripts relacionados à Meteorologia.
 
