@@ -28,7 +28,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
   <tr>
     <td align="center">
       <a href="#" title="[https://github.com/GHMachado](https://github.com/GHMachado)">
-        <img src="https://cdn.discordapp.com/attachments/630479813903122433/1339021786309726218/gabriel.jpg?ex=67ad34b7&is=67abe337&hm=17548c9a01df083b4cdfc037de2d1e70bae4357b7f57bb6e749bd63bf5606cf0" width="100px;" alt="Gabriel Machado foto"/><br>
+        <img src="[https://cdn.discordapp.com/attachments/630479813903122433/1339021786309726218/gabriel.jpg?ex=67ad34b7&is=67abe337&hm=17548c9a01df083b4cdfc037de2d1e70bae4357b7f57bb6e749bd63bf5606cf0](https://github.com/GHMachado)" width="100px;" alt="Gabriel Machado foto"/><br>
         <sub>
           <b> Gabriel Machado </b>
         </sub>
