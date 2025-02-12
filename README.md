@@ -27,7 +27,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
 <table>
   <tr>
     <td align="center">
-      <a href="#" title="https://github.com/GHMachado">
+      <a href="#" title="[https://github.com/GHMachado](https://github.com/GHMachado)">
         <img src="https://cdn.discordapp.com/attachments/630479813903122433/1339021786309726218/gabriel.jpg?ex=67ad34b7&is=67abe337&hm=17548c9a01df083b4cdfc037de2d1e70bae4357b7f57bb6e749bd63bf5606cf0" width="100px;" alt="Gabriel Machado foto"/><br>
         <sub>
           <b> Gabriel Machado </b>
@@ -35,7 +35,7 @@ Agradecemos às seguintes pessoas que contribuíram para este projeto:
       </a>
     </td>
     <td align="center">
-      <a href="#" title="https://github.com/Andess2018)">
+      <a href="#" title="[https://github.com/Andess2018](https://github.com/Andess2018)">
         <img src="https://cdn.discordapp.com/attachments/630479813903122433/1339024223158407218/anderson2.jpg?ex=67ad36fc&is=67abe57c&hm=4ec2410cd0373a8817c5a9f71f5f15cdd09defc8f54ce9fe9bc6824f41ff8c88&" width="110px;" alt="Anderson Santana foto"/><br>
         <sub>
           <b> Anderson Santana </b>
