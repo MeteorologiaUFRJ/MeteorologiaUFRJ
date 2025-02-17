@@ -27,7 +27,8 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 
 **LACPEX** \
 [**LACPEX**](https://github.com/lacpex) • Laboratório de Previsão de Curtíssimo Prazo e Eventos Extremos \
-O LACPEX tem suas atividades voltadas ao ensino e à pesquisa de técnicas de previsão de curtíssimo prazo e ao estudo da variabilidade climática das características dinâmicas e termodinâmicas da atmosfera favoráveis à ocorrência de eventos meteorológicos extremos. \
+\
+\
 \
 \
 <br/>
@@ -36,30 +37,34 @@ O LACPEX tem suas atividades voltadas ao ensino e à pesquisa de técnicas de pr
 
 **LADSIN** \
 [**LADSIN**](https://ladsin.com.br/) • Laboratório de Meteorologia Dinâmica e Sinótica \
-O propósito do LADSIN é a Formação Acadêmica e Capacitação Profissional na área de meteorologia aplicada a Previsão de Tempo. Como objetivos específicos pode-se listar as diversas atividades de pesquisa relacionadas com estudos em oceanografia física, a saber: Meteorologia Marítima; Tratamento de dados meteorológicos e oceanográficos; Modelagem de ondas; Análise de dados em Diferentes escalas espaciais e temporais, aplicadas ao tempo. \
+\
+\
 <br/>
 
-[<img align="left" height="94px" width="180px" alt="LASA" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/LASA-300x88.png"/>](https://lasa.ufrj.br/)
+[<img align="left" height="80px" width="180px" alt="LASA" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/LASA-300x88.png"/>](https://lasa.ufrj.br/)
 
 **LASA** \
 [**LASA**](https://lasa.ufrj.br/) • Laboratório de Aplicações de Satélites Ambientais \
-Aplicação de técnicas de sensoriamento remoto na análise das alterações ambientais em áreas urbanas, rurais e áreas preservadas; Monitoramento do uso e ocupação do solo; monitoramento de incêndios florestais e queimadas; Aplicações na Meteorologia e Climatologia; Microfísica de nuvens e aerossóis; Modelagem e aplicações da equação da transferência radiativa. \
+\
 <br/>
 
 <img align="left" height="180px" width="180px" alt="GEMMAS" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/gemmas.jpg"/>
 
 **GEMMAS** \
-**GEMMAS** • Grupo de Estudos Experimentais em Modelagem Matemática da Atmosfera e dos Processos de Superfície \
-O GEMMAS faz pesquisa aplicada ao desenvolvimento de técnicas inovadoras para o aprimoramento da previsão numérica de tempo e clima em escala regional. Em particular, atua no desenvolvimento de técnicas de assimilação de dados provenientes de satélites ambientais para uso em reconstruções do hidroclima regional. \
+[**GEMMAS**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Grupo de Estudos Experimentais em Modelagem Matemática da Atmosfera e dos Processos de Superfície \
+\
+\
 \
 \
 <br/>
 
-<img align="left" height="94px" width="180px" alt="GEPAC" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/06/gepacnovo-edited.jpg"/>
+<img align="left" height="160px" width="180px" alt="GEPAC" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/06/gepacnovo-edited.jpg"/>
 
 **GEPAC** \
-**GEPAC** • Grupo de Estudos, Previsões e Análises Climáticas \
-O laboratório possui estudos na área de climatologia, variabilidade e mudanças climáticas. Coordena as discussões climáticas mensais realizadas no âmbito da Graduação. \
+[**GEPAC**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Grupo de Estudos, Previsões e Análises Climáticas \
+\
+\
+\
 <br/>
 
 <img align="left" height="94px" width="180px" alt="LEMO" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/logo_simcosta.png"/>
@@ -67,23 +72,23 @@ O laboratório possui estudos na área de climatologia, variabilidade e mudança
 
 
 **LEMO** \
-**LEMO** • Laboratório de Equipamentos Meteo-Oceanográficos \
-Coleta de dados meteo-oceanográficos na região de conexão entre a Baía de Guanabara e a plataforma continental adjacente através de duas bóias metro-oceanográficas do projeto SIMCosta – Coleta de dados meteo-oceanográficos na radial de XBT de alta densidade denominada NOAA-AX97. \
+[**LEMO**](https://simcosta.furg.br/home) • Laboratório de Equipamentos Meteo-Oceanográficos \
+\
 \
 <br/>
 
 <img align="left" height="94px" width="180px" alt="LEPA" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/lepa-300x228.png"/>
 
 **LEPA** \
-**LEPA** • Laboratório de Estudos de Poluição do Ar \
-Estudos relacionados ao monitoramento meteorológico e da qualidade do ar de Regiões Metropolitanas e Rurais; Climatologia, planejamento e gestão da qualidade do ar; Efeitos dos sistemas de tempo na qualidade do ar; Avaliação da emissão de poluentes atmosféricos provenientes de fontes fixas e móveis; Avaliação dos efeitos da radiação solar e estimativa dos índices de radiação ultravioleta; Meteorologia aeronáutica. \
+[**LEPA**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Laboratório de Estudos de Poluição do Ar \
+\
+\
 <br/>
 
-<img align="left" height="180px" width="180px" alt="LHYDEX" src="[https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/lhydex-300x289.png](https://lhydex.igeo.ufrj.br/)"/>
+<img align="left" height="180px" width="180px" alt="LHYDEX" src="[https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/lhydex.png](https://lhydex.igeo.ufrj.br/)"/>
 
 **LHYDEX** \
 [**LHYDEX**](https://lhydex.igeo.ufrj.br/) • Laboratório de Hidrometeorologia Experimental \
-Investiga o ciclo da água na atmosfera e na superfície. Contribui para a formação de pessoal técnico de alto nível em hidrometeorologia, apto a compreender o papel da água no sistema climático terrestre. O laboratório conta com estudantes em iniciação científica, graduação, mestrado e doutorado, preparando-os para análise de riscos ambientais e tecnológicos da sociedade atual. 
 <br/>
 
 ## 🤝 Fundadores do Repositório
