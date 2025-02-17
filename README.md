@@ -10,7 +10,6 @@
 O repositório ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 
-- [ ] Adicionar laboratorios e links no perfil
 - [ ] Scripts de Campos sinóticos
 - [ ] Scripts de Satélite
 - [ ] Scripts de Radar
