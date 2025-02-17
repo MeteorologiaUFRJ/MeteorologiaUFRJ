@@ -85,10 +85,51 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 \
 <br/>
 
-<img align="left" height="180px" width="180px" alt="LHYDEX" src="[https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/lhydex.png](https://lhydex.igeo.ufrj.br/)"/>
+<img align="left" height="180px" width="180px" alt="LHYDEX" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/lhydex.png"/>
 
 **LHYDEX** \
 [**LHYDEX**](https://lhydex.igeo.ufrj.br/) • Laboratório de Hidrometeorologia Experimental \
+\
+\
+\
+\
+\
+<br/>
+
+<img align="left" height="94px" width="180px" alt="LMA" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/LMA.png"/>
+
+**LMA** \
+[**LMA**](https://lma.ufrj.br) • Laboratório de Meteorologia Aplicada \
+\
+\
+\
+<br/>
+
+<img align="left" height="94px" width="180px" alt="LOF" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/LOF.png"/>
+
+**LOF** \
+[**LOF**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Laboratório de Oceanografia Física \
+\
+\
+\
+<br/>
+
+<img align="left" height="94px" width="180px" alt="LPM" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/03/LPM.png"/>
+
+**LPM** \
+[**LPM**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Laboratório de Prognósticos em Mesoescala \
+\
+\
+\
+<br/>
+
+<img align="left" height="94px" width="180px" alt="NCQAR" src="https://meteorologia.igeo.ufrj.br/wp-content/uploads/2023/06/NCQAR-LAMMA.png"/>
+
+**NCQAR/LAMMA** \
+[**NCQAR/LAMMA**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Núcleo do Conhecimento em Qualidade Ambiental e Resiliência/Laboratório de Modelagem de Processos Marinhos e Atmosféricos \
+\
+\
+\
 <br/>
 
 ## 🤝 Fundadores do Repositório
