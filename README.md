@@ -30,6 +30,7 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 \
 \
 \
+\
 <br/>
 
 [<img align="left" height="94px" width="180px" alt="LADSIN" src="https://lirp.cdn-website.com/73195942/dms3rep/multi/opt/LOGO-LADSIN--281-29-1fbe4d05-378w.png"/>](https://ladsin.com.br/)
@@ -61,6 +62,7 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 
 **GEPAC** \
 [**GEPAC**](https://meteorologia.igeo.ufrj.br/departamento/laboratorios-de-pesquisa/) • Grupo de Estudos, Previsões e Análises Climáticas \
+\
 \
 \
 \
