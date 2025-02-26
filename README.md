@@ -10,7 +10,7 @@
 O repositório ainda está em desenvolvimento e as próximas atualizações serão voltadas para as seguintes tarefas:
 
 
-- [ ] Scripts de Campos sinóticos
+- [X] Scripts de Campos sinóticos
 - [ ] Scripts de Satélite
 - [ ] Scripts de Radar
 
