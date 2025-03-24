@@ -11,7 +11,7 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 
 
 - [X] Scripts de Campos sinóticos
-- [ ] Scripts de Satélite
+- [X] Scripts de Satélite
 - [ ] Scripts de Radar
 
 
