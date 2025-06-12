@@ -12,6 +12,7 @@ O repositório ainda está em desenvolvimento e as próximas atualizações ser�
 
 - [X] Scripts de Campos sinóticos
 - [X] Scripts de Satélite
+- [ ] Scripts de Campos Termodinâmicos e estimativa de sondagem
 - [ ] Scripts de Radar
 
 
