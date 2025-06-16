@@ -1,8 +1,8 @@
-# 🌦️ Repositório não oficial da Meteorologia UFRJ.
+# 🌦️ Repositório da Meteorologia UFRJ.
 
 <img height=450px src="imagens/furacao.png" alt="furacao">
 
-> Este repositório não é um repositório oficial do Departamento de Meteorologia da UFRJ. Ele foi criado e é mantido por alunos, com o objetivo de compartilhar materiais, projetos e scripts relacionados à Meteorologia.
+> Este repositório foi criado e é mantido pelos alunos do Departamento de Meteorologia da UFRJ com o objetivo de compartilhar materiais, projetos e scripts relacionados à Meteorologia.
 
 
 ### Roadmap
