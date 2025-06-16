@@ -1,4 +1,4 @@
-# 🌦️ Repositório da Meteorologia UFRJ.
+# 🌦️ Repositório da Meteorologia UFRJ
 
 <img height=450px src="imagens/furacao.png" alt="furacao">
 
